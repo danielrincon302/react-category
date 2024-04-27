@@ -1,3 +1,16 @@
+#Some demo Pics
+
+<img src="http://cdrb.onfraga.com/ud/004ingreso.png">
+<br>
+<img src="http://cdrb.onfraga.com/ud/0022personajes.png">
+<br>
+<img src="http://cdrb.onfraga.com/ud/001peliculas.png">
+<br>Instant Search<br>
+<img src="http://cdrb.onfraga.com/ud/003busqueda.png">
+<br>
+<img src="http://cdrb.onfraga.com/ud/005edicion.png">
+
+
 # Technical Test - Development with Node.js and React
 
 ## Initialize the APP
